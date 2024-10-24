@@ -2,7 +2,7 @@ import unittest
 import pandas as pd
 import numpy as np
 
-from CTGAN.tools import DataSampler, DataPrepare
+from ctgan_tools import DataSampler, DataPrepare
 
 class TestTools(unittest.TestCase):
 
